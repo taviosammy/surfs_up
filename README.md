@@ -20,8 +20,8 @@ Practicing SQLlite, Flask
 ## Summary
 
   There are definitely differences in the weather conditions for both months, which can be inferenced to determine what year round conditions can be expected.
-  The differences however aren't significant enough to expect wild swings in conditions and be seen as an indicator of stable year round warm weather.
-  Even when looking at rain data for both months, though it is clear that December has more inches of rain on average it is not significant enough to believe
+  The differences however aren't significant enough to expect wild swings in conditions and can be seen as an indicator of stable year round warm weather.
+  Even when looking at rain data for both months, though it is clear that December has more inches of rain on average, it is not significant enough to believe
   this would discourage the prospect of many days of surfing and ice cream.
   
   ![image](https://user-images.githubusercontent.com/99847046/170317532-1655c791-25f6-4564-96d7-5200ee2c1aad.png)
